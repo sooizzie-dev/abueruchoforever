@@ -3,7 +3,7 @@
 body{
   margin:0;
   font-family:Tahoma, Arial, sans-serif;
-  background:url('img/wallpaper.png') center/cover no-repeat fixed;
+  background:url('wallpaper.png') center/cover no-repeat fixed;
 }
 
 .desktop{
